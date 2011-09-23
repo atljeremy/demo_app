@@ -1,5 +1,9 @@
 # Sample localization file for English. Add more files in this directory for other locales.
+<<<<<<< HEAD
 # See http://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+=======
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+>>>>>>> 27aaf57341e5105031bfe59b60c65ebe4ca8c0b6
 
 en:
   hello: "Hello world"
